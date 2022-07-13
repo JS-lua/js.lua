@@ -12,7 +12,7 @@ local console = require(workspace.js.FlexibleVersion.console)
 
 -- EVENTS
 
--- Takes 3 values: event, click object, data
+-- Takes 3 values: object, event, data
 -- local stamUp = document.querySelector("ButtonPlasePart")
 -- addEventListener("click", stamUp, function()
 	-- local part = document.querySelector("PlacePart")
