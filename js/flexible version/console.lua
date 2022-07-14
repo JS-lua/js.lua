@@ -1,10 +1,10 @@
 local console = {}
 
-function console.log(data: string)
+function console.log(data)
 	print(data)
 end
 
-function console.dir(dir: string)
+function console.dir(data)
 	if dir then
 		dir = {
 			background = dir.BrickColor,
@@ -25,7 +25,7 @@ function console.dir(dir: string)
 	end
 end
 
-function console.profile(profile: string)
+function console.profile(profile)
 	local Players = game:GetService("Players")
 	local function onPlayerAdded(player)
 		print("Player: " .. player.Name)
