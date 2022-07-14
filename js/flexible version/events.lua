@@ -1,6 +1,6 @@
 local addEventListener = {}
 
-function addEventListener(event: string, object: userdata, data: userdata)
+function addEventListener(event, object, data)
 	local newItem = Instance.new("ClickDetector")
 	newItem.Parent = object
 	
