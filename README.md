@@ -3,7 +3,7 @@
 <img src="https://github.com/JS-lua/js.lua/blob/main/resmd/javascript.png?raw=true" width="80px">
 
 ## Use the syntax of the language with which you can easily describe logic to objects, properties and much more!
-#### You are right, this is JS for Roblox Lua! In simple words, it is a shell сonsisting of modules that make it easier to develop games and write code, in most cases it is so.
+#### You are right, this is JS for Roblox Lua! In simple words, it is a shell сonsisting of modules that make it easier to develop games and write code, in most cases it is so. But do not forget that you are using Lua code in a JS wrapper! 🦸‍♂️
 
 
 ## Installation methods
