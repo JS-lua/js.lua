@@ -47,3 +47,31 @@ addEventListener(door, "click", function()
 end)
 
 ```
+
+
+## Shell work
+#### Nothing is easier than getting started on a project with the Javascipt wrapper! It is enough to connect the desired structure (flexible version).
+
+```lua
+
+local console = require(workspace.js.FlexibleVersion.console)
+-- Apply
+console.dir()
+
+```
+
+## On practice
+#### This is a fairly handy tool, but since the development has only been going on for a few days, we cannot use it 100% or use it as if we are writing in Javascript. ⚒ Below you can see some of the features of the Javascript wrapper for Lua!
+
+<ul>
+    <li>Less code</li>
+    <li>Familiar JS Syntax</li>
+    <li>Building a game becomes easier</li>
+</ul>
+
+#### ᅠ ᅠ
+#### If you are interested in the development of the project and want to help, you can write to toll.js.lua@gmail.com
+#### I am open for communication!
+
+#### ᅠ ᅠ
+#### Created with ❤
